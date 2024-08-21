@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ranier Dalton</h1>
-<h3 align="center">I'm a programmer, starting a career in the field. I'm 17 years old and I'm from Brazil.</h3>
+<h3 align="center">I'm a programmer, starting a career in the field.</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
