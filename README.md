@@ -16,7 +16,7 @@
 <br>
 <div align="center">
 <a href="https://github.com/RanierDC">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranierdc&show_icons=true&locale=en&theme=radical" alt="ranierdc" /></p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanierDC&layout=compact&langs_count=7&theme=radical"/>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RanierDalton&show_icons=true&locale=en&theme=radical" alt="ranierdc" /></p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanierDalton&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <br>
